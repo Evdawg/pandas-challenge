@@ -7,4 +7,5 @@ Module 4 Challenge
 [1] Pivot DataFrames:
 	https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot.html
 
-
+[2] Sort Pandas DataFrames method:
+	https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
